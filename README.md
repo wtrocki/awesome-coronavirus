@@ -266,6 +266,9 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
  | 1 | [@njoyard](https://github.com/njoyard)/[**corona**](https://github.com/njoyard/corona) | Covid-19 cases visualisation app using CSSE data |
  | 0 | [@shaunsaker](https://github.com/shaunsaker)/[**covid-19-south-africa-app**](https://github.com/shaunsaker/covid-19-south-africa-app) | A React-Native mobile app that displays the latest COVID-19 stats of any country and sends push notifications when the South African stats are released. |
  | 0 | [@varundeva](https://github.com/varundeva)/[**CoronaTracker**](https://github.com/varundeva/CoronaTracker) | Corona Tracking App by Using Various Data Api Available on GitHub |
+ | 0 | [@aerogear](https://github.com/aerogear/)/[**OpenVolunteerPlatform**](https://github.com/aerogear/OpenVolunteerPlatform) | Covid19 volunteering system build to support local government organizations with volunteering efforts |
+ 
+
 
 #### Packages and Scripts
 
